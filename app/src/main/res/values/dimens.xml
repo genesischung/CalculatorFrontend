@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_1">0.5dp</dimen>
+    <dimen name="calculator_text_size">42sp</dimen>
+    <dimen name="calculator_display_size">85sp</dimen>
+</resources>
